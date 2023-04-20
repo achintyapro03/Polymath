@@ -29,4 +29,4 @@ owner.<br />
 ● After the tests, the test results can be seen .<br />
 
 Pictures:
-![Login Page](https://github.com/[achintyapro03]/[Polymath]/blob/[main]/Polymath.png?raw=true)
+![Login Page](https://github.com/achintyapro03/Polymath/blob/main/assets/Polymath_0.png?raw=true)
