@@ -34,7 +34,7 @@ owner.<br />
 ● MongoDB Atlas <br />
 ● Firebase <br />
 
-Pictures:
+# Pictures:
 ## Login Page
 ![Login Page](https://github.com/achintyapro03/Polymath/blob/main/assets/Polymath_0.png?raw=true)
 ## Home Page
