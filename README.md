@@ -18,7 +18,7 @@ This is where Polymath comes in:<br />
 ● It has a login register page where user can login or signup<br />
 ● Forgot password feature implemented.<br />
 ● A user can create a room in which students can join by entering a code which the<br />
-owner shares to others
+owner shares to others<br />
 ● The owner has the ability to create tests.<br />
 ● The tests can be created in MCQ(Multiple Choice Questions) format<br />
 ● All the tests are real time and the start and end time of the test is decided by the
