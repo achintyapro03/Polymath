@@ -28,6 +28,12 @@ owner.<br />
 ● The user can navigate between different questions using a very user-friendly UI.<br />
 ● After the tests, the test results can be seen .<br />
 
+### Tech Stack Used:
+● Python <br />
+● Tkinter <br />
+● MongoDB Atlas <br />
+● Firebase <br />
+
 Pictures:
 ## Login Page
 ![Login Page](https://github.com/achintyapro03/Polymath/blob/main/assets/Polymath_0.png?raw=true)
