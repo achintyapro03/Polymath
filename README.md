@@ -29,4 +29,13 @@ owner.<br />
 ● After the tests, the test results can be seen .<br />
 
 Pictures:
+# Login Page
 ![Login Page](https://github.com/achintyapro03/Polymath/blob/main/assets/Polymath_0.png?raw=true)
+# Home Page
+![Home Page](https://github.com/achintyapro03/Polymath/blob/main/assets/Polymath_1.png?raw=true)
+# Test Configuration Page
+![Test Configuration Page](https://github.com/achintyapro03/Polymath/blob/main/assets/Polymath_2.png?raw=true)
+# Test Setting Page
+![Test Setting Page](https://github.com/achintyapro03/Polymath/blob/main/assets/Polymath_3.png?raw=true)
+# Test attempt portal
+![Test attempt portal](https://github.com/achintyapro03/Polymath/blob/main/assets/Polymath_4.png?raw=true)
